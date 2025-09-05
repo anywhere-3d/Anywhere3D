@@ -45,6 +45,7 @@
 - 📄 **2025/06/04** Paper submitted to arXiv: [Anywhere3D Paper](https://arxiv.org/abs/2506.04897)
 - 📺 **2025/06/13** Release Video Demo: [Anywhere3D Video Demo](https://www.youtube.com/watch?v=rZiqZz_ME7g)
 - 🤖 **2025/07/07** Add more evaluation results on Anywhere3D-Bench, including the state-of-the-art visual thinking models Google Gemini-2.5-pro and openAI o3: check the updated results on our project page [Anywhere3D Project Page](https://anywhere-3d.github.io/)
+- 🗂️ **2025/09/02** Release Anywhere3D_v2 dataset [Anywhere3d_v2](https://huggingface.co/datasets/txwang98/Anywhere3D_v2), containing 2886 referring expressions-3D bounding box pairs. We increased the number of annotations for the two most challenging grounding levels in the previous dataset version[Anywhere3D](https://huggingface.co/datasets/txwang98/Anywhere3D): the space level and the part level. Specifically, 106 annotations were added to the space level and 148 to the part level, with a particular focus on expanding the most difficult movement tasks within the part level.
 
 
 
