@@ -62,7 +62,9 @@
 
 We release our dataset on huggingface.
 
-- 🔗 [Anywhere3D-Bench](https://huggingface.co/datasets/txwang98/Anywhere3D)
+- 🔗 [Anywhere3D](https://huggingface.co/datasets/txwang98/Anywhere3D)
+
+- 🔗 [Anywhere3D-v2](https://huggingface.co/datasets/txwang98/Anywhere3D_v2)
 
 
 ## 🛠️ Implementation
