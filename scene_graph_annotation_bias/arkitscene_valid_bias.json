@@ -1,0 +1,2494 @@
+[
+    {
+        "scene_name": "41159540",
+        "scene_id": "scene0000_00",
+        "bias_x": -0.19,
+        "bias_y": -1.67,
+        "bias_z": -3.78
+    },
+    {
+        "scene_name": "42445429",
+        "scene_id": "scene0001_00",
+        "bias_x": -3.0,
+        "bias_y": -0.77,
+        "bias_z": -1.71
+    },
+    {
+        "scene_name": "45261129",
+        "scene_id": "scene0002_00",
+        "bias_x": 1.24,
+        "bias_y": 0.36,
+        "bias_z": -1.78
+    },
+    {
+        "scene_name": "47331064",
+        "scene_id": "scene0003_00",
+        "bias_x": -0.5,
+        "bias_y": 0.86,
+        "bias_z": -0.61
+    },
+    {
+        "scene_name": "47115473",
+        "scene_id": "scene0004_00",
+        "bias_x": 1.9,
+        "bias_y": 0.75,
+        "bias_z": -1.75
+    },
+    {
+        "scene_name": "45261185",
+        "scene_id": "scene0005_00",
+        "bias_x": 1.94,
+        "bias_y": -0.38,
+        "bias_z": -2.19
+    },
+    {
+        "scene_name": "47115469",
+        "scene_id": "scene0006_00",
+        "bias_x": 1.51,
+        "bias_y": 0.64,
+        "bias_z": -1.49
+    },
+    {
+        "scene_name": "45261588",
+        "scene_id": "scene0007_00",
+        "bias_x": -0.7,
+        "bias_y": 0.35,
+        "bias_z": -1.04
+    },
+    {
+        "scene_name": "42444966",
+        "scene_id": "scene0008_00",
+        "bias_x": -3.17,
+        "bias_y": -0.8,
+        "bias_z": -1.97
+    },
+    {
+        "scene_name": "42897521",
+        "scene_id": "scene0009_00",
+        "bias_x": -0.34,
+        "bias_y": -0.06,
+        "bias_z": -1.41
+    },
+    {
+        "scene_name": "45663105",
+        "scene_id": "scene0010_00",
+        "bias_x": 3.26,
+        "bias_y": -0.14,
+        "bias_z": -1.58
+    },
+    {
+        "scene_name": "45261133",
+        "scene_id": "scene0011_00",
+        "bias_x": 0.21,
+        "bias_y": 3.46,
+        "bias_z": -1.49
+    },
+    {
+        "scene_name": "41069050",
+        "scene_id": "scene0012_00",
+        "bias_x": -0.2,
+        "bias_y": 0.02,
+        "bias_z": -0.76
+    },
+    {
+        "scene_name": "44358536",
+        "scene_id": "scene0013_00",
+        "bias_x": -0.79,
+        "bias_y": 2.61,
+        "bias_z": -1.27
+    },
+    {
+        "scene_name": "45662983",
+        "scene_id": "scene0014_00",
+        "bias_x": -2.57,
+        "bias_y": -3.76,
+        "bias_z": -1.82
+    },
+    {
+        "scene_name": "42897504",
+        "scene_id": "scene0015_00",
+        "bias_x": 2.64,
+        "bias_y": 0.28,
+        "bias_z": -1.61
+    },
+    {
+        "scene_name": "47331644",
+        "scene_id": "scene0016_00",
+        "bias_x": -0.98,
+        "bias_y": 2.69,
+        "bias_z": -0.61
+    },
+    {
+        "scene_name": "45663113",
+        "scene_id": "scene0017_00",
+        "bias_x": 2.83,
+        "bias_y": 0.45,
+        "bias_z": -1.33
+    },
+    {
+        "scene_name": "44358499",
+        "scene_id": "scene0018_00",
+        "bias_x": -3.55,
+        "bias_y": 1.31,
+        "bias_z": -1.19
+    },
+    {
+        "scene_name": "42898527",
+        "scene_id": "scene0019_00",
+        "bias_x": -1.02,
+        "bias_y": 3.0,
+        "bias_z": -1.0
+    },
+    {
+        "scene_name": "42899696",
+        "scene_id": "scene0020_00",
+        "bias_x": -0.37,
+        "bias_y": 1.56,
+        "bias_z": -2.09
+    },
+    {
+        "scene_name": "44358515",
+        "scene_id": "scene0021_00",
+        "bias_x": -2.86,
+        "bias_y": 1.21,
+        "bias_z": -1.89
+    },
+    {
+        "scene_name": "47331654",
+        "scene_id": "scene0022_00",
+        "bias_x": -0.89,
+        "bias_y": 1.66,
+        "bias_z": -0.56
+    },
+    {
+        "scene_name": "41254425",
+        "scene_id": "scene0023_00",
+        "bias_x": 2.12,
+        "bias_y": 0.93,
+        "bias_z": -1.02
+    },
+    {
+        "scene_name": "41159504",
+        "scene_id": "scene0024_00",
+        "bias_x": 0.3,
+        "bias_y": 2.19,
+        "bias_z": -1.85
+    },
+    {
+        "scene_name": "41125696",
+        "scene_id": "scene0025_00",
+        "bias_x": 0.77,
+        "bias_y": 3.01,
+        "bias_z": -0.58
+    },
+    {
+        "scene_name": "47331319",
+        "scene_id": "scene0026_00",
+        "bias_x": 2.21,
+        "bias_y": -0.02,
+        "bias_z": -1.82
+    },
+    {
+        "scene_name": "47331974",
+        "scene_id": "scene0027_00",
+        "bias_x": 1.46,
+        "bias_y": 3.21,
+        "bias_z": -0.73
+    },
+    {
+        "scene_name": "42899714",
+        "scene_id": "scene0028_00",
+        "bias_x": -0.22,
+        "bias_y": -0.89,
+        "bias_z": -3.12
+    },
+    {
+        "scene_name": "41254402",
+        "scene_id": "scene0029_00",
+        "bias_x": 2.0,
+        "bias_y": 1.59,
+        "bias_z": -1.26
+    },
+    {
+        "scene_name": "45261587",
+        "scene_id": "scene0030_00",
+        "bias_x": -1.02,
+        "bias_y": 0.6,
+        "bias_z": -1.16
+    },
+    {
+        "scene_name": "42899690",
+        "scene_id": "scene0031_00",
+        "bias_x": -0.33,
+        "bias_y": 1.84,
+        "bias_z": -1.39
+    },
+    {
+        "scene_name": "45260914",
+        "scene_id": "scene0032_00",
+        "bias_x": -3.36,
+        "bias_y": -1.59,
+        "bias_z": -1.42
+    },
+    {
+        "scene_name": "47332911",
+        "scene_id": "scene0033_00",
+        "bias_x": 0.87,
+        "bias_y": 1.31,
+        "bias_z": -0.88
+    },
+    {
+        "scene_name": "42445448",
+        "scene_id": "scene0034_00",
+        "bias_x": -2.67,
+        "bias_y": -0.48,
+        "bias_z": -1.43
+    },
+    {
+        "scene_name": "41159558",
+        "scene_id": "scene0035_00",
+        "bias_x": 2.27,
+        "bias_y": 1.53,
+        "bias_z": -1.54
+    },
+    {
+        "scene_name": "42898822",
+        "scene_id": "scene0036_00",
+        "bias_x": -2.12,
+        "bias_y": 0.26,
+        "bias_z": -1.31
+    },
+    {
+        "scene_name": "45261181",
+        "scene_id": "scene0037_00",
+        "bias_x": 0.59,
+        "bias_y": 0.05,
+        "bias_z": -1.26
+    },
+    {
+        "scene_name": "41254435",
+        "scene_id": "scene0038_00",
+        "bias_x": -2.98,
+        "bias_y": -0.93,
+        "bias_z": -1.8
+    },
+    {
+        "scene_name": "41142278",
+        "scene_id": "scene0039_00",
+        "bias_x": -0.29,
+        "bias_y": -1.22,
+        "bias_z": -1.32
+    },
+    {
+        "scene_name": "44358446",
+        "scene_id": "scene0040_00",
+        "bias_x": 2.48,
+        "bias_y": -1.2,
+        "bias_z": -3.43
+    },
+    {
+        "scene_name": "42897541",
+        "scene_id": "scene0041_00",
+        "bias_x": 2.71,
+        "bias_y": 2.51,
+        "bias_z": -1.85
+    },
+    {
+        "scene_name": "47115526",
+        "scene_id": "scene0042_00",
+        "bias_x": -1.16,
+        "bias_y": 3.26,
+        "bias_z": -1.34
+    },
+    {
+        "scene_name": "42446517",
+        "scene_id": "scene0043_00",
+        "bias_x": 0.03,
+        "bias_y": 0.54,
+        "bias_z": -1.25
+    },
+    {
+        "scene_name": "42444953",
+        "scene_id": "scene0044_00",
+        "bias_x": -0.9,
+        "bias_y": 1.63,
+        "bias_z": -1.8
+    },
+    {
+        "scene_name": "47331336",
+        "scene_id": "scene0045_00",
+        "bias_x": -0.26,
+        "bias_y": 0.23,
+        "bias_z": -1.26
+    },
+    {
+        "scene_name": "47331061",
+        "scene_id": "scene0046_00",
+        "bias_x": -0.56,
+        "bias_y": 0.84,
+        "bias_z": -0.54
+    },
+    {
+        "scene_name": "42898581",
+        "scene_id": "scene0047_00",
+        "bias_x": 1.82,
+        "bias_y": 2.75,
+        "bias_z": -0.8
+    },
+    {
+        "scene_name": "42446522",
+        "scene_id": "scene0048_00",
+        "bias_x": 0.81,
+        "bias_y": 2.6,
+        "bias_z": -1.7
+    },
+    {
+        "scene_name": "42446079",
+        "scene_id": "scene0049_00",
+        "bias_x": -0.97,
+        "bias_y": 1.64,
+        "bias_z": -2.02
+    },
+    {
+        "scene_name": "42446527",
+        "scene_id": "scene0050_00",
+        "bias_x": 2.25,
+        "bias_y": 0.93,
+        "bias_z": -1.19
+    },
+    {
+        "scene_name": "42898497",
+        "scene_id": "scene0051_00",
+        "bias_x": 2.52,
+        "bias_y": 2.03,
+        "bias_z": -0.68
+    },
+    {
+        "scene_name": "44358584",
+        "scene_id": "scene0052_00",
+        "bias_x": 1.89,
+        "bias_y": -1.13,
+        "bias_z": -1.69
+    },
+    {
+        "scene_name": "42444954",
+        "scene_id": "scene0053_00",
+        "bias_x": -0.28,
+        "bias_y": 0.86,
+        "bias_z": -0.56
+    },
+    {
+        "scene_name": "42446049",
+        "scene_id": "scene0054_00",
+        "bias_x": 2.3,
+        "bias_y": -0.01,
+        "bias_z": -0.44
+    },
+    {
+        "scene_name": "47332895",
+        "scene_id": "scene0055_00",
+        "bias_x": -2.82,
+        "bias_y": 0.73,
+        "bias_z": -0.97
+    },
+    {
+        "scene_name": "45662926",
+        "scene_id": "scene0056_00",
+        "bias_x": -2.89,
+        "bias_y": 2.17,
+        "bias_z": -1.42
+    },
+    {
+        "scene_name": "47331662",
+        "scene_id": "scene0057_00",
+        "bias_x": -1.36,
+        "bias_y": 0.92,
+        "bias_z": -0.52
+    },
+    {
+        "scene_name": "45261179",
+        "scene_id": "scene0058_00",
+        "bias_x": 0.75,
+        "bias_y": 0.04,
+        "bias_z": -1.39
+    },
+    {
+        "scene_name": "47332005",
+        "scene_id": "scene0059_00",
+        "bias_x": -0.81,
+        "bias_y": 0.75,
+        "bias_z": -0.7
+    },
+    {
+        "scene_name": "42898486",
+        "scene_id": "scene0060_00",
+        "bias_x": 1.98,
+        "bias_y": 1.8,
+        "bias_z": -0.56
+    },
+    {
+        "scene_name": "41069051",
+        "scene_id": "scene0061_00",
+        "bias_x": 0.59,
+        "bias_y": -0.03,
+        "bias_z": -1.22
+    },
+    {
+        "scene_name": "47204575",
+        "scene_id": "scene0062_00",
+        "bias_x": 3.75,
+        "bias_y": 1.32,
+        "bias_z": -1.27
+    },
+    {
+        "scene_name": "42899712",
+        "scene_id": "scene0063_00",
+        "bias_x": 3.39,
+        "bias_y": 0.59,
+        "bias_z": -3.38
+    },
+    {
+        "scene_name": "45662942",
+        "scene_id": "scene0064_00",
+        "bias_x": 1.48,
+        "bias_y": 4.74,
+        "bias_z": -1.35
+    },
+    {
+        "scene_name": "45261150",
+        "scene_id": "scene0065_00",
+        "bias_x": -1.76,
+        "bias_y": 0.68,
+        "bias_z": -3.12
+    },
+    {
+        "scene_name": "47331331",
+        "scene_id": "scene0066_00",
+        "bias_x": 0.42,
+        "bias_y": -1.29,
+        "bias_z": -1.37
+    },
+    {
+        "scene_name": "42898521",
+        "scene_id": "scene0067_00",
+        "bias_x": -0.78,
+        "bias_y": 2.45,
+        "bias_z": -1.15
+    },
+    {
+        "scene_name": "42897545",
+        "scene_id": "scene0068_00",
+        "bias_x": 1.8,
+        "bias_y": -0.08,
+        "bias_z": -1.73
+    },
+    {
+        "scene_name": "47115543",
+        "scene_id": "scene0069_00",
+        "bias_x": -2.88,
+        "bias_y": 1.58,
+        "bias_z": -1.27
+    },
+    {
+        "scene_name": "42899717",
+        "scene_id": "scene0070_00",
+        "bias_x": 0.36,
+        "bias_y": -2.96,
+        "bias_z": -2.6
+    },
+    {
+        "scene_name": "47332890",
+        "scene_id": "scene0071_00",
+        "bias_x": 2.61,
+        "bias_y": 0.95,
+        "bias_z": -1.1
+    },
+    {
+        "scene_name": "45260925",
+        "scene_id": "scene0072_00",
+        "bias_x": 2.93,
+        "bias_y": -1.37,
+        "bias_z": -1.27
+    },
+    {
+        "scene_name": "41159503",
+        "scene_id": "scene0073_00",
+        "bias_x": 0.37,
+        "bias_y": 2.11,
+        "bias_z": -1.78
+    },
+    {
+        "scene_name": "41125722",
+        "scene_id": "scene0074_00",
+        "bias_x": -0.92,
+        "bias_y": -2.08,
+        "bias_z": -0.58
+    },
+    {
+        "scene_name": "47204578",
+        "scene_id": "scene0075_00",
+        "bias_x": 4.01,
+        "bias_y": 1.01,
+        "bias_z": -1.51
+    },
+    {
+        "scene_name": "41069042",
+        "scene_id": "scene0076_00",
+        "bias_x": -0.76,
+        "bias_y": 1.15,
+        "bias_z": -2.41
+    },
+    {
+        "scene_name": "47332905",
+        "scene_id": "scene0077_00",
+        "bias_x": -0.83,
+        "bias_y": 1.88,
+        "bias_z": -1.0
+    },
+    {
+        "scene_name": "42446104",
+        "scene_id": "scene0078_00",
+        "bias_x": -1.13,
+        "bias_y": 1.48,
+        "bias_z": -1.3
+    },
+    {
+        "scene_name": "45662921",
+        "scene_id": "scene0079_00",
+        "bias_x": -2.72,
+        "bias_y": 2.29,
+        "bias_z": -2.08
+    },
+    {
+        "scene_name": "41159530",
+        "scene_id": "scene0080_00",
+        "bias_x": -1.08,
+        "bias_y": -0.27,
+        "bias_z": -1.32
+    },
+    {
+        "scene_name": "47204552",
+        "scene_id": "scene0081_00",
+        "bias_x": -5.09,
+        "bias_y": 0.93,
+        "bias_z": -1.59
+    },
+    {
+        "scene_name": "47332901",
+        "scene_id": "scene0082_00",
+        "bias_x": -0.85,
+        "bias_y": 1.92,
+        "bias_z": -0.84
+    },
+    {
+        "scene_name": "41159541",
+        "scene_id": "scene0083_00",
+        "bias_x": 0.55,
+        "bias_y": -1.36,
+        "bias_z": -2.07
+    },
+    {
+        "scene_name": "47331989",
+        "scene_id": "scene0084_00",
+        "bias_x": 1.97,
+        "bias_y": 1.05,
+        "bias_z": -0.52
+    },
+    {
+        "scene_name": "42898570",
+        "scene_id": "scene0085_00",
+        "bias_x": 1.24,
+        "bias_y": 2.66,
+        "bias_z": -0.75
+    },
+    {
+        "scene_name": "45260900",
+        "scene_id": "scene0086_00",
+        "bias_x": 0.95,
+        "bias_y": -2.35,
+        "bias_z": -1.43
+    },
+    {
+        "scene_name": "44358513",
+        "scene_id": "scene0087_00",
+        "bias_x": -2.86,
+        "bias_y": 0.85,
+        "bias_z": -1.58
+    },
+    {
+        "scene_name": "47331651",
+        "scene_id": "scene0088_00",
+        "bias_x": -0.63,
+        "bias_y": 1.36,
+        "bias_z": -0.78
+    },
+    {
+        "scene_name": "42446103",
+        "scene_id": "scene0089_00",
+        "bias_x": -1.78,
+        "bias_y": 4.64,
+        "bias_z": -1.67
+    },
+    {
+        "scene_name": "44358435",
+        "scene_id": "scene0090_00",
+        "bias_x": 0.29,
+        "bias_y": 3.53,
+        "bias_z": -1.45
+    },
+    {
+        "scene_name": "42899734",
+        "scene_id": "scene0091_00",
+        "bias_x": 2.16,
+        "bias_y": -2.41,
+        "bias_z": -1.73
+    },
+    {
+        "scene_name": "42897542",
+        "scene_id": "scene0092_00",
+        "bias_x": 0.24,
+        "bias_y": -0.65,
+        "bias_z": -1.53
+    },
+    {
+        "scene_name": "42899699",
+        "scene_id": "scene0093_00",
+        "bias_x": 2.83,
+        "bias_y": 0.29,
+        "bias_z": -1.3
+    },
+    {
+        "scene_name": "45662924",
+        "scene_id": "scene0094_00",
+        "bias_x": -2.81,
+        "bias_y": 2.21,
+        "bias_z": -1.49
+    },
+    {
+        "scene_name": "42899720",
+        "scene_id": "scene0095_00",
+        "bias_x": 0.76,
+        "bias_y": -0.22,
+        "bias_z": -1.74
+    },
+    {
+        "scene_name": "42897526",
+        "scene_id": "scene0096_00",
+        "bias_x": 2.55,
+        "bias_y": 0.57,
+        "bias_z": -1.65
+    },
+    {
+        "scene_name": "44358452",
+        "scene_id": "scene0097_00",
+        "bias_x": 0.62,
+        "bias_y": -1.21,
+        "bias_z": -1.18
+    },
+    {
+        "scene_name": "42446519",
+        "scene_id": "scene0098_00",
+        "bias_x": -1.18,
+        "bias_y": -0.02,
+        "bias_z": -0.94
+    },
+    {
+        "scene_name": "45662944",
+        "scene_id": "scene0099_00",
+        "bias_x": 1.77,
+        "bias_y": 4.62,
+        "bias_z": -1.58
+    },
+    {
+        "scene_name": "47204573",
+        "scene_id": "scene0100_00",
+        "bias_x": 3.03,
+        "bias_y": 1.25,
+        "bias_z": -1.46
+    },
+    {
+        "scene_name": "44358538",
+        "scene_id": "scene0101_00",
+        "bias_x": -0.58,
+        "bias_y": 2.32,
+        "bias_z": -1.45
+    },
+    {
+        "scene_name": "42897549",
+        "scene_id": "scene0102_00",
+        "bias_x": 0.04,
+        "bias_y": -0.41,
+        "bias_z": -1.74
+    },
+    {
+        "scene_name": "44358498",
+        "scene_id": "scene0103_00",
+        "bias_x": -3.52,
+        "bias_y": 1.06,
+        "bias_z": -1.47
+    },
+    {
+        "scene_name": "41125718",
+        "scene_id": "scene0104_00",
+        "bias_x": -0.49,
+        "bias_y": -1.59,
+        "bias_z": -0.57
+    },
+    {
+        "scene_name": "42897599",
+        "scene_id": "scene0105_00",
+        "bias_x": 1.01,
+        "bias_y": 2.74,
+        "bias_z": -1.89
+    },
+    {
+        "scene_name": "42899620",
+        "scene_id": "scene0106_00",
+        "bias_x": 1.41,
+        "bias_y": 0.04,
+        "bias_z": -1.55
+    },
+    {
+        "scene_name": "42446093",
+        "scene_id": "scene0107_00",
+        "bias_x": -0.61,
+        "bias_y": 1.39,
+        "bias_z": -1.25
+    },
+    {
+        "scene_name": "42445026",
+        "scene_id": "scene0108_00",
+        "bias_x": 0.62,
+        "bias_y": 2.17,
+        "bias_z": -1.05
+    },
+    {
+        "scene_name": "45261144",
+        "scene_id": "scene0109_00",
+        "bias_x": -2.09,
+        "bias_y": 0.53,
+        "bias_z": -2.81
+    },
+    {
+        "scene_name": "44358455",
+        "scene_id": "scene0110_00",
+        "bias_x": 0.63,
+        "bias_y": -1.37,
+        "bias_z": -1.27
+    },
+    {
+        "scene_name": "47331963",
+        "scene_id": "scene0111_00",
+        "bias_x": -1.69,
+        "bias_y": 1.9,
+        "bias_z": -0.63
+    },
+    {
+        "scene_name": "42899613",
+        "scene_id": "scene0112_00",
+        "bias_x": -2.32,
+        "bias_y": 2.73,
+        "bias_z": -1.39
+    },
+    {
+        "scene_name": "47331972",
+        "scene_id": "scene0113_00",
+        "bias_x": 1.36,
+        "bias_y": 3.07,
+        "bias_z": -0.64
+    },
+    {
+        "scene_name": "47331316",
+        "scene_id": "scene0114_00",
+        "bias_x": 0.01,
+        "bias_y": 1.65,
+        "bias_z": -1.93
+    },
+    {
+        "scene_name": "42897528",
+        "scene_id": "scene0115_00",
+        "bias_x": -0.04,
+        "bias_y": -1.06,
+        "bias_z": -1.68
+    },
+    {
+        "scene_name": "45663099",
+        "scene_id": "scene0116_00",
+        "bias_x": 3.19,
+        "bias_y": -0.45,
+        "bias_z": -1.56
+    },
+    {
+        "scene_name": "47331337",
+        "scene_id": "scene0117_00",
+        "bias_x": -0.34,
+        "bias_y": 0.14,
+        "bias_z": -1.43
+    },
+    {
+        "scene_name": "42446163",
+        "scene_id": "scene0118_00",
+        "bias_x": -2.01,
+        "bias_y": 1.97,
+        "bias_z": -1.8
+    },
+    {
+        "scene_name": "44358451",
+        "scene_id": "scene0119_00",
+        "bias_x": 0.46,
+        "bias_y": -1.3,
+        "bias_z": -1.17
+    },
+    {
+        "scene_name": "45261143",
+        "scene_id": "scene0120_00",
+        "bias_x": -1.91,
+        "bias_y": 0.45,
+        "bias_z": -1.98
+    },
+    {
+        "scene_name": "42445022",
+        "scene_id": "scene0121_00",
+        "bias_x": 0.3,
+        "bias_y": 3.56,
+        "bias_z": -1.72
+    },
+    {
+        "scene_name": "42446532",
+        "scene_id": "scene0122_00",
+        "bias_x": -0.91,
+        "bias_y": -0.1,
+        "bias_z": -1.25
+    },
+    {
+        "scene_name": "45261615",
+        "scene_id": "scene0123_00",
+        "bias_x": -0.16,
+        "bias_y": 1.92,
+        "bias_z": -1.53
+    },
+    {
+        "scene_name": "45260898",
+        "scene_id": "scene0124_00",
+        "bias_x": -0.59,
+        "bias_y": 2.25,
+        "bias_z": -1.53
+    },
+    {
+        "scene_name": "47332908",
+        "scene_id": "scene0125_00",
+        "bias_x": -0.47,
+        "bias_y": 0.6,
+        "bias_z": -0.98
+    },
+    {
+        "scene_name": "42897559",
+        "scene_id": "scene0126_00",
+        "bias_x": 0.56,
+        "bias_y": -0.52,
+        "bias_z": -1.07
+    },
+    {
+        "scene_name": "44358583",
+        "scene_id": "scene0127_00",
+        "bias_x": 1.85,
+        "bias_y": -1.11,
+        "bias_z": -1.68
+    },
+    {
+        "scene_name": "45261620",
+        "scene_id": "scene0128_00",
+        "bias_x": -1.71,
+        "bias_y": 0.88,
+        "bias_z": -1.3
+    },
+    {
+        "scene_name": "42444976",
+        "scene_id": "scene0129_00",
+        "bias_x": -2.95,
+        "bias_y": -0.45,
+        "bias_z": -1.78
+    },
+    {
+        "scene_name": "45261594",
+        "scene_id": "scene0130_00",
+        "bias_x": -1.41,
+        "bias_y": 0.68,
+        "bias_z": -1.39
+    },
+    {
+        "scene_name": "42898554",
+        "scene_id": "scene0131_00",
+        "bias_x": -2.19,
+        "bias_y": 2.29,
+        "bias_z": -1.12
+    },
+    {
+        "scene_name": "41159525",
+        "scene_id": "scene0132_00",
+        "bias_x": 3.96,
+        "bias_y": 0.02,
+        "bias_z": -1.46
+    },
+    {
+        "scene_name": "47332000",
+        "scene_id": "scene0133_00",
+        "bias_x": -0.49,
+        "bias_y": 0.54,
+        "bias_z": -0.69
+    },
+    {
+        "scene_name": "42897552",
+        "scene_id": "scene0134_00",
+        "bias_x": 0.42,
+        "bias_y": 0.1,
+        "bias_z": -1.71
+    },
+    {
+        "scene_name": "42446056",
+        "scene_id": "scene0135_00",
+        "bias_x": -1.65,
+        "bias_y": 1.14,
+        "bias_z": -2.22
+    },
+    {
+        "scene_name": "45260854",
+        "scene_id": "scene0136_00",
+        "bias_x": -3.36,
+        "bias_y": -1.95,
+        "bias_z": -1.77
+    },
+    {
+        "scene_name": "47115460",
+        "scene_id": "scene0137_00",
+        "bias_x": -3.13,
+        "bias_y": -0.15,
+        "bias_z": -3.23
+    },
+    {
+        "scene_name": "45260920",
+        "scene_id": "scene0138_00",
+        "bias_x": 2.79,
+        "bias_y": -1.47,
+        "bias_z": -1.34
+    },
+    {
+        "scene_name": "42898869",
+        "scene_id": "scene0139_00",
+        "bias_x": -2.29,
+        "bias_y": 2.09,
+        "bias_z": -1.59
+    },
+    {
+        "scene_name": "41125731",
+        "scene_id": "scene0140_00",
+        "bias_x": -0.19,
+        "bias_y": -0.8,
+        "bias_z": -1.74
+    },
+    {
+        "scene_name": "47115525",
+        "scene_id": "scene0141_00",
+        "bias_x": -1.25,
+        "bias_y": 3.32,
+        "bias_z": -1.59
+    },
+    {
+        "scene_name": "44358442",
+        "scene_id": "scene0142_00",
+        "bias_x": 2.27,
+        "bias_y": -1.34,
+        "bias_z": -1.71
+    },
+    {
+        "scene_name": "44358505",
+        "scene_id": "scene0143_00",
+        "bias_x": -3.86,
+        "bias_y": 1.14,
+        "bias_z": -1.49
+    },
+    {
+        "scene_name": "42899723",
+        "scene_id": "scene0144_00",
+        "bias_x": -0.24,
+        "bias_y": 1.43,
+        "bias_z": -1.15
+    },
+    {
+        "scene_name": "42899612",
+        "scene_id": "scene0145_00",
+        "bias_x": -2.37,
+        "bias_y": 2.6,
+        "bias_z": -1.47
+    },
+    {
+        "scene_name": "42899736",
+        "scene_id": "scene0146_00",
+        "bias_x": -1.55,
+        "bias_y": 3.08,
+        "bias_z": -1.66
+    },
+    {
+        "scene_name": "41254405",
+        "scene_id": "scene0147_00",
+        "bias_x": -0.35,
+        "bias_y": 2.87,
+        "bias_z": -1.7
+    },
+    {
+        "scene_name": "42446167",
+        "scene_id": "scene0148_00",
+        "bias_x": -2.27,
+        "bias_y": 1.69,
+        "bias_z": -1.08
+    },
+    {
+        "scene_name": "47204554",
+        "scene_id": "scene0149_00",
+        "bias_x": -4.45,
+        "bias_y": 1.07,
+        "bias_z": -1.39
+    },
+    {
+        "scene_name": "42446038",
+        "scene_id": "scene0150_00",
+        "bias_x": 1.14,
+        "bias_y": 0.02,
+        "bias_z": -0.42
+    },
+    {
+        "scene_name": "42446156",
+        "scene_id": "scene0151_00",
+        "bias_x": -0.92,
+        "bias_y": 4.59,
+        "bias_z": -1.27
+    },
+    {
+        "scene_name": "42446535",
+        "scene_id": "scene0152_00",
+        "bias_x": -0.57,
+        "bias_y": 0.0,
+        "bias_z": -1.49
+    },
+    {
+        "scene_name": "47331971",
+        "scene_id": "scene0153_00",
+        "bias_x": 1.23,
+        "bias_y": 2.87,
+        "bias_z": -1.14
+    },
+    {
+        "scene_name": "42897554",
+        "scene_id": "scene0154_00",
+        "bias_x": 2.3,
+        "bias_y": 0.32,
+        "bias_z": -0.93
+    },
+    {
+        "scene_name": "47115548",
+        "scene_id": "scene0155_00",
+        "bias_x": -2.75,
+        "bias_y": 1.2,
+        "bias_z": -1.38
+    },
+    {
+        "scene_name": "45663107",
+        "scene_id": "scene0156_00",
+        "bias_x": 2.73,
+        "bias_y": -0.32,
+        "bias_z": -1.67
+    },
+    {
+        "scene_name": "47331324",
+        "scene_id": "scene0157_00",
+        "bias_x": 1.26,
+        "bias_y": -0.15,
+        "bias_z": -1.61
+    },
+    {
+        "scene_name": "42899688",
+        "scene_id": "scene0158_00",
+        "bias_x": 2.31,
+        "bias_y": -0.65,
+        "bias_z": -1.59
+    },
+    {
+        "scene_name": "41159508",
+        "scene_id": "scene0159_00",
+        "bias_x": 0.24,
+        "bias_y": 1.02,
+        "bias_z": -1.26
+    },
+    {
+        "scene_name": "42897696",
+        "scene_id": "scene0160_00",
+        "bias_x": -1.13,
+        "bias_y": 2.25,
+        "bias_z": -0.64
+    },
+    {
+        "scene_name": "41159566",
+        "scene_id": "scene0161_00",
+        "bias_x": -1.71,
+        "bias_y": 0.52,
+        "bias_z": -2.82
+    },
+    {
+        "scene_name": "42446116",
+        "scene_id": "scene0162_00",
+        "bias_x": -0.57,
+        "bias_y": 1.58,
+        "bias_z": -1.09
+    },
+    {
+        "scene_name": "42897651",
+        "scene_id": "scene0163_00",
+        "bias_x": 1.19,
+        "bias_y": 1.44,
+        "bias_z": -0.93
+    },
+    {
+        "scene_name": "47331661",
+        "scene_id": "scene0164_00",
+        "bias_x": -1.05,
+        "bias_y": 0.63,
+        "bias_z": -0.56
+    },
+    {
+        "scene_name": "42897508",
+        "scene_id": "scene0165_00",
+        "bias_x": 1.26,
+        "bias_y": -0.67,
+        "bias_z": -1.73
+    },
+    {
+        "scene_name": "42898818",
+        "scene_id": "scene0166_00",
+        "bias_x": -2.56,
+        "bias_y": 0.12,
+        "bias_z": -1.12
+    },
+    {
+        "scene_name": "45261142",
+        "scene_id": "scene0167_00",
+        "bias_x": 0.4,
+        "bias_y": 3.16,
+        "bias_z": -1.51
+    },
+    {
+        "scene_name": "42445966",
+        "scene_id": "scene0168_00",
+        "bias_x": -1.27,
+        "bias_y": 2.52,
+        "bias_z": -0.53
+    },
+    {
+        "scene_name": "47332918",
+        "scene_id": "scene0169_00",
+        "bias_x": -2.94,
+        "bias_y": 1.52,
+        "bias_z": -0.95
+    },
+    {
+        "scene_name": "42898862",
+        "scene_id": "scene0170_00",
+        "bias_x": -0.05,
+        "bias_y": 4.74,
+        "bias_z": -1.45
+    },
+    {
+        "scene_name": "47331322",
+        "scene_id": "scene0171_00",
+        "bias_x": 2.22,
+        "bias_y": -0.56,
+        "bias_z": -1.66
+    },
+    {
+        "scene_name": "47115474",
+        "scene_id": "scene0172_00",
+        "bias_x": 1.77,
+        "bias_y": 0.95,
+        "bias_z": -1.88
+    },
+    {
+        "scene_name": "42897692",
+        "scene_id": "scene0173_00",
+        "bias_x": -1.98,
+        "bias_y": 2.58,
+        "bias_z": -0.98
+    },
+    {
+        "scene_name": "42899691",
+        "scene_id": "scene0174_00",
+        "bias_x": 3.96,
+        "bias_y": 0.07,
+        "bias_z": -1.6
+    },
+    {
+        "scene_name": "42446536",
+        "scene_id": "scene0175_00",
+        "bias_x": -0.42,
+        "bias_y": -0.21,
+        "bias_z": -1.22
+    },
+    {
+        "scene_name": "47331964",
+        "scene_id": "scene0176_00",
+        "bias_x": -1.52,
+        "bias_y": 1.81,
+        "bias_z": -0.62
+    },
+    {
+        "scene_name": "45260857",
+        "scene_id": "scene0177_00",
+        "bias_x": -3.32,
+        "bias_y": -1.78,
+        "bias_z": -1.74
+    },
+    {
+        "scene_name": "45662970",
+        "scene_id": "scene0178_00",
+        "bias_x": -2.03,
+        "bias_y": 0.15,
+        "bias_z": -1.51
+    },
+    {
+        "scene_name": "41125763",
+        "scene_id": "scene0179_00",
+        "bias_x": -0.18,
+        "bias_y": 0.13,
+        "bias_z": -0.88
+    },
+    {
+        "scene_name": "47331970",
+        "scene_id": "scene0180_00",
+        "bias_x": -1.49,
+        "bias_y": 1.58,
+        "bias_z": -0.57
+    },
+    {
+        "scene_name": "47331646",
+        "scene_id": "scene0181_00",
+        "bias_x": -1.05,
+        "bias_y": 2.84,
+        "bias_z": -0.72
+    },
+    {
+        "scene_name": "41159555",
+        "scene_id": "scene0182_00",
+        "bias_x": 0.91,
+        "bias_y": 1.29,
+        "bias_z": -1.54
+    },
+    {
+        "scene_name": "47204563",
+        "scene_id": "scene0183_00",
+        "bias_x": -0.24,
+        "bias_y": 2.16,
+        "bias_z": -1.45
+    },
+    {
+        "scene_name": "42446137",
+        "scene_id": "scene0184_00",
+        "bias_x": -0.78,
+        "bias_y": 4.44,
+        "bias_z": -1.41
+    },
+    {
+        "scene_name": "42446541",
+        "scene_id": "scene0185_00",
+        "bias_x": -0.48,
+        "bias_y": -1.17,
+        "bias_z": -2.07
+    },
+    {
+        "scene_name": "42898544",
+        "scene_id": "scene0186_00",
+        "bias_x": -1.83,
+        "bias_y": 2.02,
+        "bias_z": -0.59
+    },
+    {
+        "scene_name": "42897629",
+        "scene_id": "scene0187_00",
+        "bias_x": 0.85,
+        "bias_y": 2.8,
+        "bias_z": -1.45
+    },
+    {
+        "scene_name": "42446540",
+        "scene_id": "scene0188_00",
+        "bias_x": -0.75,
+        "bias_y": -0.92,
+        "bias_z": -1.54
+    },
+    {
+        "scene_name": "42897695",
+        "scene_id": "scene0189_00",
+        "bias_x": -1.91,
+        "bias_y": 2.52,
+        "bias_z": -0.74
+    },
+    {
+        "scene_name": "42445029",
+        "scene_id": "scene0190_00",
+        "bias_x": -0.14,
+        "bias_y": 2.45,
+        "bias_z": -1.05
+    },
+    {
+        "scene_name": "41254246",
+        "scene_id": "scene0191_00",
+        "bias_x": 0.7,
+        "bias_y": 2.48,
+        "bias_z": -2.67
+    },
+    {
+        "scene_name": "47204607",
+        "scene_id": "scene0192_00",
+        "bias_x": -1.6,
+        "bias_y": 2.29,
+        "bias_z": -2.73
+    },
+    {
+        "scene_name": "41069025",
+        "scene_id": "scene0193_00",
+        "bias_x": -1.54,
+        "bias_y": 0.46,
+        "bias_z": -1.27
+    },
+    {
+        "scene_name": "42446151",
+        "scene_id": "scene0194_00",
+        "bias_x": -2.04,
+        "bias_y": 4.39,
+        "bias_z": -1.8
+    },
+    {
+        "scene_name": "47331068",
+        "scene_id": "scene0195_00",
+        "bias_x": -0.29,
+        "bias_y": -0.21,
+        "bias_z": -0.46
+    },
+    {
+        "scene_name": "47331668",
+        "scene_id": "scene0196_00",
+        "bias_x": -1.63,
+        "bias_y": 1.05,
+        "bias_z": -0.49
+    },
+    {
+        "scene_name": "47332915",
+        "scene_id": "scene0197_00",
+        "bias_x": -2.53,
+        "bias_y": 1.2,
+        "bias_z": -0.86
+    },
+    {
+        "scene_name": "45260928",
+        "scene_id": "scene0198_00",
+        "bias_x": 2.9,
+        "bias_y": -1.2,
+        "bias_z": -1.55
+    },
+    {
+        "scene_name": "44358448",
+        "scene_id": "scene0199_00",
+        "bias_x": 2.28,
+        "bias_y": -0.77,
+        "bias_z": -1.35
+    },
+    {
+        "scene_name": "41159571",
+        "scene_id": "scene0200_00",
+        "bias_x": 2.95,
+        "bias_y": -1.58,
+        "bias_z": -2.38
+    },
+    {
+        "scene_name": "42897678",
+        "scene_id": "scene0201_00",
+        "bias_x": 2.7,
+        "bias_y": -1.74,
+        "bias_z": -2.57
+    },
+    {
+        "scene_name": "45261190",
+        "scene_id": "scene0202_00",
+        "bias_x": 2.01,
+        "bias_y": -0.33,
+        "bias_z": -3.67
+    },
+    {
+        "scene_name": "42445998",
+        "scene_id": "scene0203_00",
+        "bias_x": 2.84,
+        "bias_y": 0.43,
+        "bias_z": -1.7
+    },
+    {
+        "scene_name": "42898574",
+        "scene_id": "scene0204_00",
+        "bias_x": 1.1,
+        "bias_y": 2.53,
+        "bias_z": -0.63
+    },
+    {
+        "scene_name": "42897550",
+        "scene_id": "scene0205_00",
+        "bias_x": -1.36,
+        "bias_y": 0.13,
+        "bias_z": -1.36
+    },
+    {
+        "scene_name": "42898538",
+        "scene_id": "scene0206_00",
+        "bias_x": -1.97,
+        "bias_y": 2.12,
+        "bias_z": -0.76
+    },
+    {
+        "scene_name": "42444949",
+        "scene_id": "scene0207_00",
+        "bias_x": -1.29,
+        "bias_y": 2.47,
+        "bias_z": -0.73
+    },
+    {
+        "scene_name": "47332904",
+        "scene_id": "scene0208_00",
+        "bias_x": -0.81,
+        "bias_y": 2.0,
+        "bias_z": -1.12
+    },
+    {
+        "scene_name": "45260856",
+        "scene_id": "scene0209_00",
+        "bias_x": -3.03,
+        "bias_y": -2.05,
+        "bias_z": -1.77
+    },
+    {
+        "scene_name": "42897688",
+        "scene_id": "scene0210_00",
+        "bias_x": 2.5,
+        "bias_y": -1.24,
+        "bias_z": -1.25
+    },
+    {
+        "scene_name": "41159557",
+        "scene_id": "scene0211_00",
+        "bias_x": 2.31,
+        "bias_y": 1.94,
+        "bias_z": -1.71
+    },
+    {
+        "scene_name": "45261619",
+        "scene_id": "scene0212_00",
+        "bias_x": -1.46,
+        "bias_y": 1.29,
+        "bias_z": -1.25
+    },
+    {
+        "scene_name": "47115452",
+        "scene_id": "scene0213_00",
+        "bias_x": -3.57,
+        "bias_y": -0.45,
+        "bias_z": -1.85
+    },
+    {
+        "scene_name": "42444946",
+        "scene_id": "scene0214_00",
+        "bias_x": 0.72,
+        "bias_y": 0.77,
+        "bias_z": -2.14
+    },
+    {
+        "scene_name": "42899725",
+        "scene_id": "scene0215_00",
+        "bias_x": -0.34,
+        "bias_y": 0.36,
+        "bias_z": -1.07
+    },
+    {
+        "scene_name": "47331988",
+        "scene_id": "scene0216_00",
+        "bias_x": 2.06,
+        "bias_y": 1.39,
+        "bias_z": -0.4
+    },
+    {
+        "scene_name": "41125700",
+        "scene_id": "scene0217_00",
+        "bias_x": 0.23,
+        "bias_y": 3.09,
+        "bias_z": -0.92
+    },
+    {
+        "scene_name": "42899685",
+        "scene_id": "scene0218_00",
+        "bias_x": 0.31,
+        "bias_y": 1.02,
+        "bias_z": -2.3
+    },
+    {
+        "scene_name": "42899726",
+        "scene_id": "scene0219_00",
+        "bias_x": 1.0,
+        "bias_y": -0.39,
+        "bias_z": -1.7
+    },
+    {
+        "scene_name": "42446529",
+        "scene_id": "scene0220_00",
+        "bias_x": -0.56,
+        "bias_y": -1.14,
+        "bias_z": -1.37
+    },
+    {
+        "scene_name": "42899731",
+        "scene_id": "scene0221_00",
+        "bias_x": 1.21,
+        "bias_y": -0.98,
+        "bias_z": -1.39
+    },
+    {
+        "scene_name": "44358436",
+        "scene_id": "scene0222_00",
+        "bias_x": 0.27,
+        "bias_y": 3.68,
+        "bias_z": -1.42
+    },
+    {
+        "scene_name": "42898811",
+        "scene_id": "scene0223_00",
+        "bias_x": -0.9,
+        "bias_y": 2.53,
+        "bias_z": -1.37
+    },
+    {
+        "scene_name": "42899698",
+        "scene_id": "scene0224_00",
+        "bias_x": 0.64,
+        "bias_y": -0.03,
+        "bias_z": -1.0
+    },
+    {
+        "scene_name": "45261128",
+        "scene_id": "scene0225_00",
+        "bias_x": 1.53,
+        "bias_y": 0.06,
+        "bias_z": -1.45
+    },
+    {
+        "scene_name": "45261581",
+        "scene_id": "scene0226_00",
+        "bias_x": -2.99,
+        "bias_y": -0.51,
+        "bias_z": -1.39
+    },
+    {
+        "scene_name": "42898519",
+        "scene_id": "scene0227_00",
+        "bias_x": -0.85,
+        "bias_y": 2.72,
+        "bias_z": -1.2
+    },
+    {
+        "scene_name": "45261575",
+        "scene_id": "scene0228_00",
+        "bias_x": -2.25,
+        "bias_y": -0.38,
+        "bias_z": -1.49
+    },
+    {
+        "scene_name": "47331653",
+        "scene_id": "scene0229_00",
+        "bias_x": -0.95,
+        "bias_y": 1.5,
+        "bias_z": -0.6
+    },
+    {
+        "scene_name": "42898868",
+        "scene_id": "scene0230_00",
+        "bias_x": -2.73,
+        "bias_y": 2.11,
+        "bias_z": -1.54
+    },
+    {
+        "scene_name": "45662979",
+        "scene_id": "scene0231_00",
+        "bias_x": -2.3,
+        "bias_y": 0.28,
+        "bias_z": -1.2
+    },
+    {
+        "scene_name": "47331071",
+        "scene_id": "scene0232_00",
+        "bias_x": -0.1,
+        "bias_y": 0.53,
+        "bias_z": -0.54
+    },
+    {
+        "scene_name": "41254400",
+        "scene_id": "scene0233_00",
+        "bias_x": 2.22,
+        "bias_y": 1.0,
+        "bias_z": -1.83
+    },
+    {
+        "scene_name": "45663150",
+        "scene_id": "scene0234_00",
+        "bias_x": 4.31,
+        "bias_y": -0.2,
+        "bias_z": -1.66
+    },
+    {
+        "scene_name": "42446083",
+        "scene_id": "scene0235_00",
+        "bias_x": -1.25,
+        "bias_y": 1.84,
+        "bias_z": -2.1
+    },
+    {
+        "scene_name": "45260905",
+        "scene_id": "scene0236_00",
+        "bias_x": -3.39,
+        "bias_y": -1.75,
+        "bias_z": -1.35
+    },
+    {
+        "scene_name": "44358582",
+        "scene_id": "scene0237_00",
+        "bias_x": 2.08,
+        "bias_y": -0.96,
+        "bias_z": -1.77
+    },
+    {
+        "scene_name": "47204605",
+        "scene_id": "scene0238_00",
+        "bias_x": -0.34,
+        "bias_y": 3.35,
+        "bias_z": -2.73
+    },
+    {
+        "scene_name": "42445988",
+        "scene_id": "scene0239_00",
+        "bias_x": -1.31,
+        "bias_y": 2.32,
+        "bias_z": -0.57
+    },
+    {
+        "scene_name": "41125709",
+        "scene_id": "scene0240_00",
+        "bias_x": -0.37,
+        "bias_y": -2.82,
+        "bias_z": -0.64
+    },
+    {
+        "scene_name": "45261631",
+        "scene_id": "scene0241_00",
+        "bias_x": 1.56,
+        "bias_y": 2.83,
+        "bias_z": -1.48
+    },
+    {
+        "scene_name": "42899729",
+        "scene_id": "scene0242_00",
+        "bias_x": -0.35,
+        "bias_y": -0.23,
+        "bias_z": -1.63
+    },
+    {
+        "scene_name": "44358518",
+        "scene_id": "scene0243_00",
+        "bias_x": -2.72,
+        "bias_y": 0.74,
+        "bias_z": -1.68
+    },
+    {
+        "scene_name": "41254386",
+        "scene_id": "scene0244_00",
+        "bias_x": 0.15,
+        "bias_y": 1.9,
+        "bias_z": -1.94
+    },
+    {
+        "scene_name": "41159519",
+        "scene_id": "scene0245_00",
+        "bias_x": 4.91,
+        "bias_y": 0.15,
+        "bias_z": -1.8
+    },
+    {
+        "scene_name": "41159529",
+        "scene_id": "scene0246_00",
+        "bias_x": -0.46,
+        "bias_y": -0.27,
+        "bias_z": -1.07
+    },
+    {
+        "scene_name": "47331990",
+        "scene_id": "scene0247_00",
+        "bias_x": 1.61,
+        "bias_y": 1.38,
+        "bias_z": -0.52
+    },
+    {
+        "scene_name": "42898816",
+        "scene_id": "scene0248_00",
+        "bias_x": 0.57,
+        "bias_y": -3.53,
+        "bias_z": -1.24
+    },
+    {
+        "scene_name": "42445441",
+        "scene_id": "scene0249_00",
+        "bias_x": -2.01,
+        "bias_y": -0.28,
+        "bias_z": -1.17
+    },
+    {
+        "scene_name": "42899471",
+        "scene_id": "scene0250_00",
+        "bias_x": 0.04,
+        "bias_y": 3.77,
+        "bias_z": -4.53
+    },
+    {
+        "scene_name": "42897538",
+        "scene_id": "scene0251_00",
+        "bias_x": -0.42,
+        "bias_y": 0.14,
+        "bias_z": -1.94
+    },
+    {
+        "scene_name": "45663154",
+        "scene_id": "scene0252_00",
+        "bias_x": 4.41,
+        "bias_y": -0.11,
+        "bias_z": -1.35
+    },
+    {
+        "scene_name": "45261637",
+        "scene_id": "scene0253_00",
+        "bias_x": 1.72,
+        "bias_y": 2.41,
+        "bias_z": -1.54
+    },
+    {
+        "scene_name": "41254432",
+        "scene_id": "scene0254_00",
+        "bias_x": -2.76,
+        "bias_y": -0.98,
+        "bias_z": -1.95
+    },
+    {
+        "scene_name": "41125756",
+        "scene_id": "scene0255_00",
+        "bias_x": 0.47,
+        "bias_y": -0.12,
+        "bias_z": -0.52
+    },
+    {
+        "scene_name": "45663149",
+        "scene_id": "scene0256_00",
+        "bias_x": 4.1,
+        "bias_y": -0.08,
+        "bias_z": -1.58
+    },
+    {
+        "scene_name": "41142280",
+        "scene_id": "scene0257_00",
+        "bias_x": 0.49,
+        "bias_y": -0.04,
+        "bias_z": -1.87
+    },
+    {
+        "scene_name": "45662987",
+        "scene_id": "scene0258_00",
+        "bias_x": -3.94,
+        "bias_y": -1.51,
+        "bias_z": -1.49
+    },
+    {
+        "scene_name": "41254269",
+        "scene_id": "scene0259_00",
+        "bias_x": -0.4,
+        "bias_y": 0.82,
+        "bias_z": -2.25
+    },
+    {
+        "scene_name": "41254441",
+        "scene_id": "scene0260_00",
+        "bias_x": -2.57,
+        "bias_y": -0.83,
+        "bias_z": -1.25
+    },
+    {
+        "scene_name": "41142281",
+        "scene_id": "scene0261_00",
+        "bias_x": -0.68,
+        "bias_y": -1.22,
+        "bias_z": -1.11
+    },
+    {
+        "scene_name": "45261193",
+        "scene_id": "scene0262_00",
+        "bias_x": 1.72,
+        "bias_y": -0.47,
+        "bias_z": -2.19
+    },
+    {
+        "scene_name": "45663114",
+        "scene_id": "scene0263_00",
+        "bias_x": 2.48,
+        "bias_y": 0.41,
+        "bias_z": -1.36
+    },
+    {
+        "scene_name": "45260903",
+        "scene_id": "scene0264_00",
+        "bias_x": -3.35,
+        "bias_y": -1.79,
+        "bias_z": -1.3
+    },
+    {
+        "scene_name": "42446016",
+        "scene_id": "scene0265_00",
+        "bias_x": 1.71,
+        "bias_y": 0.09,
+        "bias_z": -0.54
+    },
+    {
+        "scene_name": "42446546",
+        "scene_id": "scene0266_00",
+        "bias_x": 3.55,
+        "bias_y": -1.02,
+        "bias_z": -1.69
+    },
+    {
+        "scene_name": "45662981",
+        "scene_id": "scene0267_00",
+        "bias_x": -4.01,
+        "bias_y": -1.52,
+        "bias_z": -1.77
+    },
+    {
+        "scene_name": "47115550",
+        "scene_id": "scene0268_00",
+        "bias_x": -2.87,
+        "bias_y": 1.37,
+        "bias_z": -1.43
+    },
+    {
+        "scene_name": "42898508",
+        "scene_id": "scene0269_00",
+        "bias_x": 2.77,
+        "bias_y": 2.1,
+        "bias_z": -0.59
+    },
+    {
+        "scene_name": "42898849",
+        "scene_id": "scene0270_00",
+        "bias_x": 0.16,
+        "bias_y": 4.24,
+        "bias_z": -2.02
+    },
+    {
+        "scene_name": "42899619",
+        "scene_id": "scene0271_00",
+        "bias_x": 1.95,
+        "bias_y": 0.2,
+        "bias_z": -1.63
+    },
+    {
+        "scene_name": "47204556",
+        "scene_id": "scene0272_00",
+        "bias_x": -4.59,
+        "bias_y": 0.99,
+        "bias_z": -1.85
+    },
+    {
+        "scene_name": "42445021",
+        "scene_id": "scene0273_00",
+        "bias_x": 0.21,
+        "bias_y": 2.39,
+        "bias_z": -1.73
+    },
+    {
+        "scene_name": "47332004",
+        "scene_id": "scene0274_00",
+        "bias_x": -0.69,
+        "bias_y": 0.82,
+        "bias_z": -0.61
+    },
+    {
+        "scene_name": "41254412",
+        "scene_id": "scene0275_00",
+        "bias_x": 2.05,
+        "bias_y": 1.04,
+        "bias_z": -1.05
+    },
+    {
+        "scene_name": "47331333",
+        "scene_id": "scene0276_00",
+        "bias_x": 0.75,
+        "bias_y": 1.43,
+        "bias_z": -1.67
+    },
+    {
+        "scene_name": "45662975",
+        "scene_id": "scene0277_00",
+        "bias_x": -2.15,
+        "bias_y": 0.06,
+        "bias_z": -1.26
+    },
+    {
+        "scene_name": "44358440",
+        "scene_id": "scene0278_00",
+        "bias_x": 0.31,
+        "bias_y": 3.15,
+        "bias_z": -1.35
+    },
+    {
+        "scene_name": "42446533",
+        "scene_id": "scene0279_00",
+        "bias_x": 0.92,
+        "bias_y": -0.34,
+        "bias_z": -1.89
+    },
+    {
+        "scene_name": "41069046",
+        "scene_id": "scene0280_00",
+        "bias_x": 0.36,
+        "bias_y": -0.39,
+        "bias_z": -1.17
+    },
+    {
+        "scene_name": "45663115",
+        "scene_id": "scene0281_00",
+        "bias_x": 2.77,
+        "bias_y": 0.43,
+        "bias_z": -1.27
+    },
+    {
+        "scene_name": "41159538",
+        "scene_id": "scene0282_00",
+        "bias_x": 1.81,
+        "bias_y": 0.17,
+        "bias_z": -4.25
+    },
+    {
+        "scene_name": "44358532",
+        "scene_id": "scene0283_00",
+        "bias_x": -0.91,
+        "bias_y": 2.08,
+        "bias_z": -1.47
+    },
+    {
+        "scene_name": "45662943",
+        "scene_id": "scene0284_00",
+        "bias_x": 1.95,
+        "bias_y": 4.56,
+        "bias_z": -1.49
+    },
+    {
+        "scene_name": "47331314",
+        "scene_id": "scene0285_00",
+        "bias_x": -0.39,
+        "bias_y": 1.38,
+        "bias_z": -1.23
+    },
+    {
+        "scene_name": "47115529",
+        "scene_id": "scene0286_00",
+        "bias_x": -1.11,
+        "bias_y": 3.43,
+        "bias_z": -1.31
+    },
+    {
+        "scene_name": "42445981",
+        "scene_id": "scene0287_00",
+        "bias_x": -1.17,
+        "bias_y": 2.39,
+        "bias_z": -0.47
+    },
+    {
+        "scene_name": "42897667",
+        "scene_id": "scene0288_00",
+        "bias_x": 0.51,
+        "bias_y": 1.44,
+        "bias_z": -0.86
+    },
+    {
+        "scene_name": "42897647",
+        "scene_id": "scene0289_00",
+        "bias_x": 1.07,
+        "bias_y": 1.19,
+        "bias_z": -1.25
+    },
+    {
+        "scene_name": "47331339",
+        "scene_id": "scene0290_00",
+        "bias_x": 0.53,
+        "bias_y": 0.55,
+        "bias_z": -2.23
+    },
+    {
+        "scene_name": "45261182",
+        "scene_id": "scene0291_00",
+        "bias_x": 1.28,
+        "bias_y": -0.2,
+        "bias_z": -1.37
+    },
+    {
+        "scene_name": "45261140",
+        "scene_id": "scene0292_00",
+        "bias_x": 0.43,
+        "bias_y": 3.05,
+        "bias_z": -1.54
+    },
+    {
+        "scene_name": "42899611",
+        "scene_id": "scene0293_00",
+        "bias_x": -1.61,
+        "bias_y": 3.23,
+        "bias_z": -2.32
+    },
+    {
+        "scene_name": "47331311",
+        "scene_id": "scene0294_00",
+        "bias_x": 2.11,
+        "bias_y": -2.61,
+        "bias_z": -1.94
+    },
+    {
+        "scene_name": "45663164",
+        "scene_id": "scene0295_00",
+        "bias_x": 4.26,
+        "bias_y": -0.86,
+        "bias_z": -1.56
+    },
+    {
+        "scene_name": "45663165",
+        "scene_id": "scene0296_00",
+        "bias_x": 4.61,
+        "bias_y": -0.7,
+        "bias_z": -1.41
+    },
+    {
+        "scene_name": "42444955",
+        "scene_id": "scene0297_00",
+        "bias_x": -0.3,
+        "bias_y": 0.9,
+        "bias_z": -0.52
+    },
+    {
+        "scene_name": "47332885",
+        "scene_id": "scene0298_00",
+        "bias_x": 2.61,
+        "bias_y": 0.9,
+        "bias_z": -0.78
+    },
+    {
+        "scene_name": "42446100",
+        "scene_id": "scene0299_00",
+        "bias_x": -2.22,
+        "bias_y": 4.91,
+        "bias_z": -1.35
+    },
+    {
+        "scene_name": "42446114",
+        "scene_id": "scene0300_00",
+        "bias_x": -1.83,
+        "bias_y": 4.65,
+        "bias_z": -1.47
+    },
+    {
+        "scene_name": "45261632",
+        "scene_id": "scene0301_00",
+        "bias_x": 1.25,
+        "bias_y": 2.3,
+        "bias_z": -1.49
+    },
+    {
+        "scene_name": "42897501",
+        "scene_id": "scene0302_00",
+        "bias_x": -1.22,
+        "bias_y": 0.99,
+        "bias_z": -1.68
+    },
+    {
+        "scene_name": "47332910",
+        "scene_id": "scene0303_00",
+        "bias_x": 0.54,
+        "bias_y": 0.53,
+        "bias_z": -0.72
+    },
+    {
+        "scene_name": "41125760",
+        "scene_id": "scene0304_00",
+        "bias_x": -0.49,
+        "bias_y": 0.39,
+        "bias_z": -0.7
+    },
+    {
+        "scene_name": "41254262",
+        "scene_id": "scene0305_00",
+        "bias_x": 0.63,
+        "bias_y": 1.29,
+        "bias_z": -2.03
+    },
+    {
+        "scene_name": "42898867",
+        "scene_id": "scene0306_00",
+        "bias_x": -3.01,
+        "bias_y": 2.14,
+        "bias_z": -1.19
+    },
+    {
+        "scene_name": "42444968",
+        "scene_id": "scene0307_00",
+        "bias_x": -3.13,
+        "bias_y": -0.74,
+        "bias_z": -1.78
+    },
+    {
+        "scene_name": "42897672",
+        "scene_id": "scene0308_00",
+        "bias_x": 2.7,
+        "bias_y": -1.55,
+        "bias_z": -2.13
+    },
+    {
+        "scene_name": "42445031",
+        "scene_id": "scene0309_00",
+        "bias_x": -0.11,
+        "bias_y": 3.18,
+        "bias_z": -1.63
+    },
+    {
+        "scene_name": "47332916",
+        "scene_id": "scene0310_00",
+        "bias_x": -2.41,
+        "bias_y": 1.28,
+        "bias_z": -1.05
+    },
+    {
+        "scene_name": "42446165",
+        "scene_id": "scene0311_00",
+        "bias_x": -2.03,
+        "bias_y": 2.15,
+        "bias_z": -1.23
+    },
+    {
+        "scene_name": "42898817",
+        "scene_id": "scene0312_00",
+        "bias_x": 0.39,
+        "bias_y": -2.96,
+        "bias_z": -1.46
+    },
+    {
+        "scene_name": "41069043",
+        "scene_id": "scene0313_00",
+        "bias_x": 0.05,
+        "bias_y": -0.88,
+        "bias_z": -1.05
+    },
+    {
+        "scene_name": "41069021",
+        "scene_id": "scene0314_00",
+        "bias_x": -1.17,
+        "bias_y": -0.0,
+        "bias_z": -1.29
+    },
+    {
+        "scene_name": "42899737",
+        "scene_id": "scene0315_00",
+        "bias_x": 0.57,
+        "bias_y": 1.54,
+        "bias_z": -1.75
+    },
+    {
+        "scene_name": "47332886",
+        "scene_id": "scene0316_00",
+        "bias_x": 2.3,
+        "bias_y": 0.94,
+        "bias_z": -0.8
+    },
+    {
+        "scene_name": "47332899",
+        "scene_id": "scene0317_00",
+        "bias_x": -2.95,
+        "bias_y": 0.73,
+        "bias_z": -0.9
+    },
+    {
+        "scene_name": "42899679",
+        "scene_id": "scene0318_00",
+        "bias_x": 4.27,
+        "bias_y": 0.12,
+        "bias_z": -2.1
+    },
+    {
+        "scene_name": "42897566",
+        "scene_id": "scene0319_00",
+        "bias_x": 0.71,
+        "bias_y": 1.2,
+        "bias_z": -1.05
+    },
+    {
+        "scene_name": "41254398",
+        "scene_id": "scene0320_00",
+        "bias_x": 0.2,
+        "bias_y": 1.69,
+        "bias_z": -1.08
+    },
+    {
+        "scene_name": "41254382",
+        "scene_id": "scene0321_00",
+        "bias_x": 0.37,
+        "bias_y": 2.08,
+        "bias_z": -1.77
+    },
+    {
+        "scene_name": "41159572",
+        "scene_id": "scene0322_00",
+        "bias_x": -0.99,
+        "bias_y": -1.7,
+        "bias_z": -2.38
+    },
+    {
+        "scene_name": "42899617",
+        "scene_id": "scene0323_00",
+        "bias_x": 1.88,
+        "bias_y": 0.26,
+        "bias_z": -1.52
+    },
+    {
+        "scene_name": "42445991",
+        "scene_id": "scene0324_00",
+        "bias_x": 2.88,
+        "bias_y": 0.43,
+        "bias_z": -1.71
+    },
+    {
+        "scene_name": "42899700",
+        "scene_id": "scene0325_00",
+        "bias_x": 0.2,
+        "bias_y": -0.21,
+        "bias_z": -1.48
+    },
+    {
+        "scene_name": "47204559",
+        "scene_id": "scene0326_00",
+        "bias_x": -0.17,
+        "bias_y": 1.76,
+        "bias_z": -1.34
+    },
+    {
+        "scene_name": "42898854",
+        "scene_id": "scene0327_00",
+        "bias_x": 0.11,
+        "bias_y": 4.81,
+        "bias_z": -1.94
+    },
+    {
+        "scene_name": "41159553",
+        "scene_id": "scene0328_00",
+        "bias_x": 1.65,
+        "bias_y": -1.3,
+        "bias_z": -1.73
+    },
+    {
+        "scene_name": "47204566",
+        "scene_id": "scene0329_00",
+        "bias_x": 2.01,
+        "bias_y": 0.48,
+        "bias_z": -1.42
+    },
+    {
+        "scene_name": "41159534",
+        "scene_id": "scene0330_00",
+        "bias_x": -0.96,
+        "bias_y": -0.14,
+        "bias_z": -1.76
+    },
+    {
+        "scene_name": "47331334",
+        "scene_id": "scene0331_00",
+        "bias_x": 1.6,
+        "bias_y": -0.29,
+        "bias_z": -2.1
+    },
+    {
+        "scene_name": "42897561",
+        "scene_id": "scene0332_00",
+        "bias_x": 1.32,
+        "bias_y": -3.08,
+        "bias_z": -2.0
+    },
+    {
+        "scene_name": "42899461",
+        "scene_id": "scene0333_00",
+        "bias_x": 0.01,
+        "bias_y": 4.35,
+        "bias_z": -4.53
+    },
+    {
+        "scene_name": "47331645",
+        "scene_id": "scene0334_00",
+        "bias_x": -1.21,
+        "bias_y": 2.75,
+        "bias_z": -0.56
+    },
+    {
+        "scene_name": "42899739",
+        "scene_id": "scene0335_00",
+        "bias_x": -0.13,
+        "bias_y": 0.99,
+        "bias_z": -1.68
+    },
+    {
+        "scene_name": "45260899",
+        "scene_id": "scene0336_00",
+        "bias_x": -0.53,
+        "bias_y": 2.18,
+        "bias_z": -1.28
+    },
+    {
+        "scene_name": "47115463",
+        "scene_id": "scene0337_00",
+        "bias_x": -3.53,
+        "bias_y": -0.48,
+        "bias_z": -1.77
+    },
+    {
+        "scene_name": "45261121",
+        "scene_id": "scene0338_00",
+        "bias_x": 0.69,
+        "bias_y": -0.86,
+        "bias_z": -1.23
+    },
+    {
+        "scene_name": "42445984",
+        "scene_id": "scene0339_00",
+        "bias_x": 2.67,
+        "bias_y": 0.12,
+        "bias_z": -1.41
+    },
+    {
+        "scene_name": "42899680",
+        "scene_id": "scene0340_00",
+        "bias_x": 0.85,
+        "bias_y": -2.97,
+        "bias_z": -1.51
+    },
+    {
+        "scene_name": "42899694",
+        "scene_id": "scene0341_00",
+        "bias_x": 0.97,
+        "bias_y": -1.73,
+        "bias_z": -1.91
+    },
+    {
+        "scene_name": "42898826",
+        "scene_id": "scene0342_00",
+        "bias_x": -2.28,
+        "bias_y": -0.02,
+        "bias_z": -1.55
+    },
+    {
+        "scene_name": "47331069",
+        "scene_id": "scene0343_00",
+        "bias_x": 0.43,
+        "bias_y": -0.38,
+        "bias_z": -0.5
+    },
+    {
+        "scene_name": "47331266",
+        "scene_id": "scene0344_00",
+        "bias_x": 3.68,
+        "bias_y": -1.03,
+        "bias_z": -1.71
+    },
+    {
+        "scene_name": "42899459",
+        "scene_id": "scene0345_00",
+        "bias_x": 0.02,
+        "bias_y": 4.49,
+        "bias_z": -4.44
+    },
+    {
+        "scene_name": "47331262",
+        "scene_id": "scene0346_00",
+        "bias_x": -0.03,
+        "bias_y": 1.44,
+        "bias_z": -1.89
+    },
+    {
+        "scene_name": "47331063",
+        "scene_id": "scene0347_00",
+        "bias_x": -0.45,
+        "bias_y": 0.87,
+        "bias_z": -0.58
+    },
+    {
+        "scene_name": "47204609",
+        "scene_id": "scene0348_00",
+        "bias_x": -1.44,
+        "bias_y": 2.46,
+        "bias_z": -1.72
+    },
+    {
+        "scene_name": "41069048",
+        "scene_id": "scene0349_00",
+        "bias_x": -0.17,
+        "bias_y": -0.7,
+        "bias_z": -1.14
+    },
+    {
+        "scene_name": "42444950",
+        "scene_id": "scene0350_00",
+        "bias_x": -1.69,
+        "bias_y": 2.42,
+        "bias_z": -0.63
+    },
+    {
+        "scene_name": "45663175",
+        "scene_id": "scene0351_00",
+        "bias_x": 3.89,
+        "bias_y": -1.02,
+        "bias_z": -1.46
+    },
+    {
+        "scene_name": "42445028",
+        "scene_id": "scene0352_00",
+        "bias_x": -0.25,
+        "bias_y": 2.47,
+        "bias_z": -1.39
+    },
+    {
+        "scene_name": "42897564",
+        "scene_id": "scene0353_00",
+        "bias_x": 1.34,
+        "bias_y": 0.6,
+        "bias_z": -2.41
+    },
+    {
+        "scene_name": "47331265",
+        "scene_id": "scene0354_00",
+        "bias_x": 0.89,
+        "bias_y": 2.1,
+        "bias_z": -1.75
+    },
+    {
+        "scene_name": "47332893",
+        "scene_id": "scene0355_00",
+        "bias_x": -3.25,
+        "bias_y": 0.78,
+        "bias_z": -0.94
+    }
+]
