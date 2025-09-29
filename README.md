@@ -67,6 +67,8 @@ We release our dataset on huggingface.
 
 - 🔗 [Anywhere3D-v2](https://huggingface.co/datasets/txwang98/Anywhere3D_v2)
 
+- 🔗 [Bird Eye View's images and video frames for MLLM evaluation](https://drive.google.com/drive/folders/1TPHmH8B9iJB61hrhO2YBxCOGh0hQAX1y?usp=sharing)
+
 
 ## 🛠️ Implementation
 
