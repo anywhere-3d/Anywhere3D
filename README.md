@@ -13,7 +13,7 @@
   <a href="https://github.com/anywhere-3d/Anywhere3D">
     <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Code">
   </a>
-  <a href="https://huggingface.co/datasets/txwang98/Anywhere3D">
+  <a href="https://huggingface.co/datasets/txwang98/Anywhere3D_v2">
     <img src="https://img.shields.io/badge/Data-database-black?style=for-the-badge&logo=postgresql&logoColor=white" alt="Data">
   </a>
   <a href="https://anywhere3d-viewer-webpage.onrender.com/apps/meshviewer/datasetname=arkitscene_valid&scene_id=scene0004_00">
